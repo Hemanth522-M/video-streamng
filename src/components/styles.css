@@ -1,0 +1,12 @@
+.header {
+    width: 100%;
+    background-color: aqua;
+    height: 40px;
+    margin-top: -20px;
+}
+
+.footer {
+    width: 100%;
+    background-color: gray;
+    height: 30px;
+}
